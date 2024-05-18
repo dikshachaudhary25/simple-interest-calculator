@@ -25,3 +25,14 @@ To use the Simple Interest Calculator shell script, follow the instructions belo
 
 ### Example
 The script will prompt you to enter the principal amount, interest rate, and time period. For example:
+
+## Installation
+To get started with this project, follow these steps:
+
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/yourusername/simple-interest-calculator.git
+    ```
+2. **Navigate to the project directory:**
+    ```sh
+    cd simple-interest-calculator
