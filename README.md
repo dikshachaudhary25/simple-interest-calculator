@@ -36,3 +36,6 @@ To get started with this project, follow these steps:
 2. **Navigate to the project directory:**
     ```sh
     cd simple-interest-calculator
+
+
+2023 XYZ, Inc.
